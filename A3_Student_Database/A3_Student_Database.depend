@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670506765 source:c:\users\deird\onedrive\documents\mechatronics_tud\year 2\software eng\ca3\a3_student_database\a3_database.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
